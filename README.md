@@ -72,10 +72,10 @@ Expected output (top 5 semantically similar movies):
 ## 📸 Visual Output
 
 ### 🔹 TF-IDF Recommendations
-![TF-IDF Output](./Screenshot%202025-04-24%20041129.png)
+![TF-IDF Output](./screenshots/Screenshot%202025-04-24%20041129.png)
 
 ### 🔹 Word2Vec Recommendations
-![Word2Vec Output](./Screenshot%202025-04-24%20041140.png)
+![Word2Vec Output](./screenshots/Screenshot%202025-04-24%20041140.png)
 
 ---
 
